@@ -20,3 +20,4 @@
 1. `npm install` — встановлення залежностей.
 2. `npm run build` — компіляція TypeScript у JavaScript.
 3. `npm run test` — запуск юніт-тестів (Vitest).
+
